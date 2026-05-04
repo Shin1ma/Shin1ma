@@ -1,4 +1,8 @@
-## Hope to pass literature this year 
+## WhoAmI
+Hi! I'm ruben, an highschool student interested in low-level programming and Cybersecurity. I'm currently working on C/C++ and imperative/OOP paradigms but after finishing some projects I'll move to higher level languages (Java, Python, and some others) to create webapps and learn a little bit of full-stack development and functional programming.
+
+## What am i working on?
+I'm currently working on a centralized messaging server/client in C, to learn more about concurrent programming, networking, multi-platform programming and creating protocols. The biggest projects I have planned are: full-stack webapps, starting a kernel, and some others.
 
 <!--
 **Shin1ma/Shin1ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
